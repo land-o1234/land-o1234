@@ -2,7 +2,5 @@
 - 👀 I’m interested in creating webpages
 - 🌱 I’m currently learning HTML, CSS, JavaScript
 
-<!---
-land-o1234/land-o1234 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Languages:
+<img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/html5/html5-original.svg" alt="JavaScript Logo" width="50" height="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/css3/css3-original.svg" alt="JavaScript Logo" width="50" height="50"/> 
