@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @land-o1234
 - 👀 I’m interested in creating webpages
 - 🌱 I’m currently learning HTML, CSS, JavaScript
-- 🎄 I'm currently updating and maintaining my [website](https://wackyfunmagazine.com)
+- 📖 I'm currently updating and maintaining my [website](https://wackyfunmagazine.com)
+- 🎄 I'm working on Advent of Code 2024 Challenges
 
 Languages: <br>
 
